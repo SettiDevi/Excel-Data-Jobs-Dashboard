@@ -128,3 +128,7 @@ But this remote percentage will be decrease for upcoming next two years because 
 
 ![Screenshot 2024-07-31 132059](https://github.com/user-attachments/assets/fdc0822a-9427-4734-8963-05f84be87e1a)
 
+![Screenshot 2024-07-31 132436](https://github.com/user-attachments/assets/b1562ae8-e3b3-4fc3-8dc2-85b768a97e4e)
+
+![Screenshot 2024-07-31 132511](https://github.com/user-attachments/assets/c4fc466f-8c05-4cd3-ab07-2b9b9d51c864)
+
