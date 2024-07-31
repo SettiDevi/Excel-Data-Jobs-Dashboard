@@ -52,7 +52,7 @@ In today’s fast-paced business environment, the ability to process and act on 
 7. Growing Complexity of Data Ecosystems
 Modern data ecosystems are increasingly complex, involving a multitude of data sources, processing tools, and analytical platforms. Managing and optimizing these ecosystems requires a diverse set of skills and expertise. The expansion of data job openings reflects the necessity for professionals who can navigate this complexity, integrate various technologies, and ensure that the data ecosystem operates efficiently and effectively.
 
-                              ![image](https://github.com/user-attachments/assets/5ffdbe8c-2dca-4d78-9b59-ac117a88ba5a)
+![image](https://github.com/user-attachments/assets/5ffdbe8c-2dca-4d78-9b59-ac117a88ba5a)
 
 So this graph represents how the data job openings are gradually increasing from last 5 years 2020-2024(upto June).
 
@@ -94,6 +94,6 @@ Job Titles: Chief AI Officer (CAIO), VP of AI and Data Science.
 These are some of the examples of job openings which are useful find the jobs easily based on names and whatever experience you have.There are so many job openings also there for another roles also.this is a sample case to find find job easily by using the filter experience level. let me show you a simple pie chart which is able to give you more insights in briely.
                                          
                                           
-                                          ![image](https://github.com/user-attachments/assets/3c39dd02-4844-46b8-8835-1cbf84fb246d)
+![image](https://github.com/user-attachments/assets/3c39dd02-4844-46b8-8835-1cbf84fb246d)
 
           
