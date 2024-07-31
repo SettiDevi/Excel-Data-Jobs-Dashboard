@@ -54,4 +54,4 @@ Modern data ecosystems are increasingly complex, involving a multitude of data s
 
 ![image](https://github.com/user-attachments/assets/5ffdbe8c-2dca-4d78-9b59-ac117a88ba5a)
 
-So this graph represents how the data job openings are gradually increasingfrom last 5 years 2020-2024.
+So this graph represents how the data job openings are gradually increasing from last 5 years 2020-2024(upto June).
