@@ -1,7 +1,9 @@
 # Excel-Data-Jobs-Dashboard
 Developing useful insights for better understanding Data Job openings for analysing what are the trending jobs from 2020-2024 in the current Job Market.
 
+There is a lot of technical advancement is happening currently.Every day new technology is booming according to the technical advancements.Based on  that job openings are listed every year.I think this trend is continuously happenend for next two years also. So this  project helps you to understand trends and what are the job openings are listed according to technical advancements.
 
+To understand briefly lets discuss from the scratch why this job apenings are listed in very high count what is the reason behind it and predicting what are the trends of the future job opening also. let's dive into it.
 
 In the 21st century, data has emerged as a cornerstone of innovation, driving transformation across all sectors of society. Its relentless evolution is not merely a byproduct of technological advancements but a fundamental shift in how we perceive and leverage information. This essay explores the continuous evolution of data, highlighting its driving forces, transformative impacts, and future directions.
 There are currently over 147 zettabytes of data in the entire digital universe (Statista) The amount of data created by humans grows at an exponential rate. In 2020, there were 64.2 ZB of data in the digital universe. In 2024, that figure more than doubled to an estimated 147 ZB.Next year the data will increase up to 181 zettabytes(estimation).
@@ -52,10 +54,14 @@ In today’s fast-paced business environment, the ability to process and act on 
 7. Growing Complexity of Data Ecosystems
 Modern data ecosystems are increasingly complex, involving a multitude of data sources, processing tools, and analytical platforms. Managing and optimizing these ecosystems requires a diverse set of skills and expertise. The expansion of data job openings reflects the necessity for professionals who can navigate this complexity, integrate various technologies, and ensure that the data ecosystem operates efficiently and effectively.
 
+So because of the continuous data evolution job openings are listed every year in the domains like Data Science,Artificial Intelligence,Machine Leraning etc.
 ![image](https://github.com/user-attachments/assets/5ffdbe8c-2dca-4d78-9b59-ac117a88ba5a)
 
-So this graph represents how the data job openings are gradually increasing from last 5 years 2020-2024(upto June).
+So this graph represents how the  job openings are gradually increasing from last 5 years 2020-2024(upto June).
 
+Wait! I think you have a question in your mind that am I suitable for this roles?Eventhough you are a fresher or senior or mid level experience employee there are a lot of opportunities open for you. The main thing is you have to expertise in your interested domain  and  upgrade your self everyday by learning the required skills and applying your knowledge by building some projects on real world problem statements  to get job in thease domains.No matter if you are a fresher or senior etc to get the job the matter is that you have a required skillset suitable for that job role or not.
+
+These are some of the sample job roles  on the basis of job openings listed according to experience level.
 In the rapidly evolving landscape of data and artificial intelligence (AI)/machine learning (ML), the job market reflects the diverse skills and expertise required at various stages of a data professional’s career. From entry-level roles that lay the foundation for a career in data and AI/ML to executive positions that drive strategic vision, the breadth of job openings illustrates the complexity and importance of these fields. This essay explores how job opportunities in data and AI/ML are categorized by experience level, highlighting the responsibilities and skills associated with each stage of professional development.
 
 Entry-Level Positions: Foundations and Learning
@@ -91,9 +97,8 @@ Job Titles: Chief Data Officer (CDO), VP of Data Strategy.
 AI/ML Jobs:
 Job Titles: Chief AI Officer (CAIO), VP of AI and Data Science.
 
-These are some of the examples of job openings which are useful find the jobs easily based on names and whatever experience you have.There are so many job openings also there for another roles also.this is a sample case to find find job easily by using the filter experience level. let me show you a simple pie chart which is able to give you more insights in briely.
+These are some of the examples of job openings which are useful find the jobs easily based on names and whatever experience you have.There are so many job openings also there for another roles like in the domain of  cloud computing,Deep Learning etc.this is a sample case to find find job easily by using the filter experience level. let me show you a simple pie chart which is able to give you more insights in briely.
                                          
                                           
 ![image](https://github.com/user-attachments/assets/3c39dd02-4844-46b8-8835-1cbf84fb246d)
 
-          
