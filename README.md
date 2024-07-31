@@ -126,4 +126,5 @@ But this remote percentage will be decrease for upcoming next two years because 
  If you want to know the salary details just visit the excel dashboard which is uploaded in the file format named as "Excel_Project_1.xlsx" in this repository for better understanding the future trends and the excel dashboard is dynamic in nature so if  you want  more insights on particular data about in the year or job openings etc or experience level or each country job openings etc.
  I hope this will give you clear analysis about this job openings.The dashboard is like below screenshot.
 
- C:\Users\setti\OneDrive\Pictures\Screenshots\Screenshot 2024-07-31 132059.png
+![Screenshot 2024-07-31 132059](https://github.com/user-attachments/assets/fdc0822a-9427-4734-8963-05f84be87e1a)
+
